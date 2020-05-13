@@ -1,9 +1,9 @@
 {
-  "user": "Wazzag99",
+  "user": "Aaron-m-Riggs",
   "provider": "aws/gcloud",
-  "region": "GBR, EURO",
-  "eth_address": "0xE25B7a42A6c75c05bCff9FdfDf2A7B97a0338EC1",
-  "ftn_address": "0x5c820ff26e9a322a0fbebdb1225d8ed11722babd",
+  "region": "USA",
+  "eth_address": "0xD743C685e5F426423F537ce478240038B990cc23",
+  "ftn_address": "0xd3b5e733708f6341694143a834fc1b27c673ae3e",
   "node": "signer, validator, authority, heartbeat",
   "data": ""
 }
